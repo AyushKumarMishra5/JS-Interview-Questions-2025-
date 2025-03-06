@@ -8,6 +8,3 @@ console.log(shuffel)
 // output:
 // [ 45, 11, 12, 3 ]
 // [ 11, 45, 3, 12 ]
-
-let num = Math.random() * 1000
-console.log(Math.floor(num))
